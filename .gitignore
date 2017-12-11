@@ -1,2 +1,6 @@
 vendor
 wp-content
+.cache-loader
+dist
+node_modules
+dist
